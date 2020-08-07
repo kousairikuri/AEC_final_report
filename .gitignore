@@ -116,10 +116,20 @@ references/
 .idea/
 __MACOSX/
 
-*.png
-*.jpg
-*.pth
-*.jpeg
-*.gif
+# *.png
+# *.jpg
+# *.pth
+# *.jpeg
+# *.gif
 
 .DS_Store
+
+# tex
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
